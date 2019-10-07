@@ -4,3 +4,4 @@
 ## Web 服务设计
 - [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
+- [JSON API - A SPECIFICATION FOR BUILDING APIS IN JSON](https://jsonapi.org/)
