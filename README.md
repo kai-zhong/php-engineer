@@ -11,6 +11,7 @@
 ### RESTful
 - [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) - steps toward the glory of REST
+- [REST API Design - Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
 ### 接口设计
 - [Open API](https://swagger.io/docs/specification/about/)，接口文档工具。
