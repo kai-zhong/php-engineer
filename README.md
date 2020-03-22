@@ -7,6 +7,7 @@
 # Web 服务设计
 ### 开发范式
  - [The Twelve-Factor App](https://12factor.net/)，The twelve-factor app is a methodology for building software-as-a-service apps。
+ - [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 
 ### RESTful
 - [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
