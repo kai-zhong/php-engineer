@@ -27,6 +27,7 @@
 ## 消息总线
 - [Event Bus Implementation(s)](https://medium.com/elixirlabs/event-bus-implementation-s-d2854a9fafd5)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications)
+- [消息队列设计精要](https://tech.meituan.com/2016/07/01/mq-design.html)
 
 # 辅助工具
 - [PHP benchmarks](http://www.phpbenchmarks.com/)，网站中有各种 PHP 版本与开发框架进行组合的性能测试报告。
