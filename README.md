@@ -24,6 +24,9 @@
 # 架构
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 
+## 消息总线
+- [Event Bus Implementation(s)](https://medium.com/elixirlabs/event-bus-implementation-s-d2854a9fafd5)
+
 # 辅助工具
 - [PHP benchmarks](http://www.phpbenchmarks.com/)，网站中有各种 PHP 版本与开发框架进行组合的性能测试报告。
 
