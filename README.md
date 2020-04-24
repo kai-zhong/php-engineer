@@ -24,6 +24,9 @@
 # 架构
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 
+## 设计模式
+- [Refactoring and Design Parttern](https://refactoring.guru/) Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+
 ## 消息总线
 - [Event Bus Implementation(s)](https://medium.com/elixirlabs/event-bus-implementation-s-d2854a9fafd5)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications)
