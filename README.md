@@ -26,6 +26,7 @@
 
 ## 设计模式
 - [Refactoring and Design Parttern](https://refactoring.guru/), Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+- [The Repository Pattern](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff649690(v=pandp.10))
 
 ## 消息总线
 - [Event Bus Implementation(s)](https://medium.com/elixirlabs/event-bus-implementation-s-d2854a9fafd5)
